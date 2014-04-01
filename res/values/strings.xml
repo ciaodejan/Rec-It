@@ -11,9 +11,17 @@
     <string name="username_hint">Username</string>
     <string name="password_hint">Password</string>
     <string name="login_button_label">Login</string>
-    <string name="sign_up_text">Sign Up!</string>
+    <string name="SignUp_text">SignUp</string>
     <string name="title_activity_sign_up">SignUpActivity</string>
     <string name="email_hint">Email</string>
     <string name="sign_up_button_label">Sign Up</string>
+    <string name="Email">email_hint</string>
+    <string name="SignUp">sign_up_button_label</string>
+    <string name="Signup">sign_up_text</string>
+    <string name="signup_error_message">Please make sure to have filled every space (username, password, email)</string>
+    <string name="signup_error_title">Attention!</string>
+    <string name="login_error_title">Attention!</string>
+    <string name="login_error_message">Please make sure to have filled every space (username, password)</string>
+    <string name="menu_logout_label">Logout</string>
 
 </resources>
